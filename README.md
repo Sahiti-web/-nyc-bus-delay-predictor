@@ -32,6 +32,12 @@ The Random Forest model ended up explaining about 45% of the variance in delay
 length (R²=0.45), cutting average prediction error from 19.6 minutes down to 
 12.3 minutes compared to just guessing the mean.
 
+## EDA Visualization
+![EDA](eda.png)
+
+## Model Evaluation
+![Evaluation](evaluation.png)
+
 ## Data sources
 
 - [NYC Bus Breakdown and Delays](https://data.cityofnewyork.us/resource/ez4e-fazm.csv) — NYC Open Data
